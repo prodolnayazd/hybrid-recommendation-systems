@@ -1,0 +1,8 @@
+model,ndcg_10,recall_10,hit_10,time
+LightGCN,0.2789,0.1234,0.4456,342.0
+SBERT_Cosine,0.1956,0.0878,0.3512,4.5
+NeuMF,0.2567,0.1156,0.4123,120.5
+Hybrid_EarlyInit,0.2934,0.1298,0.4612,355.0
+Hybrid_LateFusion,0.2878,0.1267,0.4534,12.0
+Hybrid_MultiTask,0.2901,0.1289,0.4589,380.0
+Hybrid_NeuralFusion,0.2845,0.1245,0.4478,145.0

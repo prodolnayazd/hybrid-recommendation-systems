@@ -1,0 +1,5 @@
+variant,ndcg_10,improvement_vs_cf
+Hybrid_EarlyInit,0.2934,5.2
+Hybrid_LateFusion,0.2878,3.19
+Hybrid_MultiTask,0.2901,4.02
+Hybrid_NeuralFusion,0.2845,2.01
