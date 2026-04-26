@@ -1,0 +1,1 @@
+{"model": "SBERT_Cosine", "ndcg_10": 0.1956, "recall_10": 0.0878, "hit_10": 0.3512, "time": 4.5}
