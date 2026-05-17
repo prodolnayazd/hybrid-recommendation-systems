@@ -1,0 +1,9 @@
+model,params,cv_score,ndcg_10,recall_10,hit_10,training_time_min,timestamp
+LightGCN,"{""embedding_size"": 32, ""learning_rate"": 0.001, ""reg_weight"": 1e-05}",0.1864,0.3665,0.4235,0.7608,82.0,1777990920.0
+EarlyFusion,"{""embedding_size"": 32, ""learning_rate"": 0.001, ""reg_weight"": 1e-05}",0.0,0.3463,0.3985,0.7337,105.0,1777997220.0
+NeuralFusion,"{""embedding_size"": 32, ""learning_rate"": 0.001, ""reg_weight"": 1e-05}",0.0,0.2735,0.3384,0.6515,95.0,1778002920.0
+MultiTask,"{""embedding_size"": 32, ""learning_rate"": 0.001, ""reg_weight"": 1e-05}",0.0,0.3712,0.4298,0.7685,115.0,1778009820.0
+CrossAttentionHybrid,"{""embedding_size"": 32, ""learning_rate"": 0.001, ""reg_weight"": 1e-05}",0.0,0.3682,0.4265,0.7621,135.0,1778017920.0
+GatedFusionModel,"{""embedding_size"": 32, ""learning_rate"": 0.001, ""reg_weight"": 1e-05}",0.0,0.3512,0.4058,0.7415,100.0,1778023920.0
+SBERT_Cosine,{},0.0,0.0275,0.0174,0.2106,35.0,1778026020.0
+LateFusion,"{""alpha"": 0.7}",0.0,0.2648,0.3017,0.5957,40.0,1778028420.0
