@@ -1,7 +1,0 @@
-model,scenario,ndcg_10,drop_pct
-LightGCN,New Item 30%,0.1867,33.1
-NeuMF,New Item 30%,0.1789,30.3
-Hybrid_EarlyInit,New Item 30%,0.2156,26.6
-Hybrid_LateFusion,New Item 30%,0.2089,27.5
-Hybrid_MultiTask,New Item 30%,0.2112,27.1
-Hybrid_NeuralFusion,New Item 30%,0.2034,28.5

@@ -1,1 +1,0 @@
-{"model": "LightGCN", "ndcg_10": 0.2789, "recall_10": 0.1234, "hit_10": 0.4456, "time": 342.0}
